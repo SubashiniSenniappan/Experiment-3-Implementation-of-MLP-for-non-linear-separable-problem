@@ -134,7 +134,7 @@ predict(w1,w2,test)
 ![image](https://github.com/SubashiniSenniappan/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/119404951/78543354-93da-4c10-bd2a-2bae6edc260c)
 
 
-Input - Output for XOR Gate:
+## Input - Output for XOR Gate:
 ![image](https://github.com/SubashiniSenniappan/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/assets/119404951/149ae189-3019-49fa-ae99-aa53ee16a1d8)
 
 ## RESULT:
