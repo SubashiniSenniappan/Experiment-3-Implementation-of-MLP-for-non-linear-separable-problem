@@ -143,6 +143,4 @@ Thus a MLP is implemented for non linear separable problem using Python.
 
 
 
- **OUTPUT** 
-
-** RESULT**
+ 
